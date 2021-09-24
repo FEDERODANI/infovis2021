@@ -1,0 +1,6 @@
+visual encodings
+graphical perception
+Stacked Graphs
+Parallel Coordinates
+flow map
+node-link diagram
